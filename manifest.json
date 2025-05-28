@@ -1,9 +1,10 @@
-
 {
   "id": "getcomics",
   "name": "GetComics",
   "version": "1.0.1",
-  "icon": "icon.png",
+  "author": "S1MV3R",
+  "description": "Search and download comics from GetComics.org",
   "language": "en",
-  "entry": "GetComics.ts"
+  "type": "source",
+  "icon": "icon.png"
 }

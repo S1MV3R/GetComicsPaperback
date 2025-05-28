@@ -1,0 +1,9 @@
+
+{
+  "id": "getcomics",
+  "name": "GetComics",
+  "version": "1.0.1",
+  "icon": "icon.png",
+  "language": "en",
+  "entry": "GetComics.ts"
+}
